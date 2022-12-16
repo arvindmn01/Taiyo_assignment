@@ -31,8 +31,5 @@ Screenshot:
 
 ### I Scraped the tendors data from this website using Selenium and save it in CSV format using pandas
 <br />
-### Submission and Evaluation
-- For assignment submission guidelines and evaluation criteria refer to the [WIKI](https://github.com/Taiyo-ai/pt-mesh-pipeline/wiki) documentation
-
 ---
 Copyright © 2021 Taiyō.ai Inc.
