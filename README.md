@@ -33,4 +33,4 @@ Screenshot:
 #### I Scraped the tendors data from this website using Selenium and save it in CSV format using pandas 
 <br />
 CSV File:
-![image](https://user-images.githubusercontent.com/100796728/208160559-5f1840bc-ab82-41de-a0d6-d6ab64f67268.png)
+![image](https://user-images.githubusercontent.com/100796728/208161233-32278f20-73e2-4a44-ae11-d3c9ff6c3cb5.png)
