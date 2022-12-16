@@ -22,8 +22,8 @@ Web Scraping:
 <br />
 Use selenium to scrape the Tender Data From this webiste: url: https://opentender.eu/all/search/tender
 Screenshot:
-![image](https://user-images.githubusercontent.com/100796728/208156685-bc89534b-505a-4cc3-97ce-924ce6f222c4.png
+![image](https://user-images.githubusercontent.com/100796728/208157864-a1e65696-096a-4237-a743-c94b64a34eb2.png)
 
 #### Using Selenium and python pandas, we can scrape the tender data given in this website and store it in csv file.
 CSV File:
-![image](https://user-images.githubusercontent.com/56297484/114755127-f100df00-9d76-11eb-835e-b15379ef7450.png)
+![image](https://user-images.githubusercontent.com/100796728/208157981-041dba23-e1c2-4388-bf83-314c788a1e35.png)
