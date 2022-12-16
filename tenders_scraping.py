@@ -13,9 +13,9 @@ time.sleep(10)
 
 next_page=driver.find_element_by_class_name('page-btn.page-next')
 f_lis=[]
-count=0
+max_page=0
 while next_page:
-    time.sleep(10)
+    time.sleep(8)
     s=driver.find_element_by_tag_name('tbody')
     rows=s.find_elements_by_tag_name('tr')
     
@@ -25,12 +25,12 @@ while next_page:
         for j in td_:
             lis.append(j.text)
         f_lis.append(lis[1:])
-    count+=1
-    if count==10:
+    max_page+=1
+    if max_page==200:
         break
-    print(count)
+   
     next_page.click()
-# print(f_lis)
+
 
 df=pd.DataFrame(f_lis,columns=['Title','Buyer','Supplier','Bid Price'])
 

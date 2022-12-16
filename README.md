@@ -25,6 +25,10 @@ Use selenium to scrape the Tender Data From this webiste: url: https://opentende
 Screenshot:
 <br />
 ![image](https://user-images.githubusercontent.com/100796728/208157864-a1e65696-096a-4237-a743-c94b64a34eb2.png)
+<br />
+ this website contains the 5 millions plus pages So, I used condition to scrape only the limited pages. you can increase or decrease the page number as per your choice. you just need to modify the max_page variable in code file
+![image](https://user-images.githubusercontent.com/100796728/208159564-b0357aa1-0a4e-402a-99d1-174305670158.png)
+
 
 #### Using Selenium and python pandas, we can scrape the tender data given in this website and store it in csv file.
 <br />
