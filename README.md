@@ -1,6 +1,6 @@
 # Taiyo-assignment
 
-## This repository containes the tasks done as mentoined in the application form of Taiyo.ai
+## This repository contains the tasks done as mentioned in the application form of Taiyo.ai
 
 ## Technologies Used:
 ```
