@@ -1,6 +1,7 @@
-# Taiyo-assignment
+# web_scraping
 
-## This repository contains the tasks done as mentioned in the application form of Taiyo.ai
+
+
 
 ## Technologies Used:
 ```
